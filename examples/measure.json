@@ -1,0 +1,13 @@
+{
+  "title":"Example measure — replace before use",
+  "jurisdiction":"Example jurisdiction",
+  "electionDate":"2028-11-07",
+  "deadlines":{
+    "argument":"2028-08-01T17:00:00-07:00",
+    "rebuttal":"2028-08-11T17:00:00-07:00",
+    "analysis":"2028-07-25T17:00:00-07:00",
+    "tax":"2028-08-01T17:00:00-07:00"
+  },
+  "limits":{"argument":300,"rebuttal":250},
+  "declaration":"The undersigned author(s) of this argument state that such argument is true and correct to the best of their knowledge and belief."
+}
