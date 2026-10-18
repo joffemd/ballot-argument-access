@@ -1,0 +1,19 @@
+{
+  "name": "ballot-argument-access",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Open source ballot argument filing reference implementation",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.14"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "demo": "node src/server.js --demo",
+    "test": "node --test",
+    "check": "node --check src/server.js && node --check public/app.js",
+    "build:pages": "node scripts/build-pages.js",
+    "preview:pages": "node scripts/preview-pages.js"
+  }
+}
